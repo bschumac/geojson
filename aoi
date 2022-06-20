@@ -1,0 +1,39 @@
+ {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "target_canopy_cover": 1.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.4268,
+              46.3395
+            ],
+            [
+              11.4308,
+              46.3395
+            ],
+            [
+              11.4308,
+              46.3413
+            ],
+            [
+              11.4268,
+              46.3413
+            ],
+            [
+              11.4268,
+              46.3395
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
